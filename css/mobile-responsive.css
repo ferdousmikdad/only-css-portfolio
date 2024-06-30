@@ -1,1 +1,10 @@
 /* mobile responsive */
+@media (max-width: 900px) {
+    
+    .about-section{
+        flex-direction: column;
+        display: block;
+        position: relative;
+        text-align: center;
+    }
+    }

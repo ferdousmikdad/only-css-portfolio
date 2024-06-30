@@ -584,16 +584,3 @@ button{
   .footer-github p {
     margin-right: 10px;
   }
-
-
-
-
-  @media screen and (max-width: 900px) {
-    body{
-      overflow-x: hidden;
-      margin: auto;
-    }
-    .hero-section{
-      flex-direction: column;
-    }
-  }
